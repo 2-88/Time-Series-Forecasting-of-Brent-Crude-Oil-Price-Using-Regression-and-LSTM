@@ -13,5 +13,5 @@ The process was begun by installing the necessary libraries needed to implement 
 Linear regression model requires the specification of the dependent variable and the explanatory variable (s). To build these explanatory variables which are the moving averages for the past three (MA3) and nine days (MA9) to predict brent oil prices using a linear regression model, it will require some feature engineering.  Feature engineering was used to carve the MA3 and the MA9 as the explanatory variable out of the actual brent oil prices recorded in the stock market. The actual brent oil price is the dependent variable in this case. 
 Rolling Window feature engineering method was used to create the two explanatory variables as shown in the algorithm below:
 
-![]().
+![](https://github.com/2-88/Time-Series-Forecasting-of-Brent-Crude-Oil-Price-Using-Regression-and-LSTM/blob/main/Picture12.png).
 
