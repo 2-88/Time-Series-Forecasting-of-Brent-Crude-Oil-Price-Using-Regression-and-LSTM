@@ -17,5 +17,5 @@ Rolling Window feature engineering method was used to create the two explanatory
 
 Result: Five rows of the resulting output of the Rolling Window feature engineering is displayed as follows:
 
-![]().
+![](https://github.com/2-88/Time-Series-Forecasting-of-Brent-Crude-Oil-Price-Using-Regression-and-LSTM-Python-Implementation-/blob/main/Picture13.png).
 
