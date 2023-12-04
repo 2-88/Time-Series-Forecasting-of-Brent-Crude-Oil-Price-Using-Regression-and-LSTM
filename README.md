@@ -4,7 +4,7 @@ This study focuses on utilizing a regression model and Long Short-Term Memory (L
 In the LSTM approach, the historical Brent oil prices serve as input to construct a matrix, with the LSTM recognizing these values as actual prices along with the associated look-back (lag). The LSTM undergoes learning with this newly formed dataset, enabling it to predict future Brent oil prices.
 
 ## Predicting-The-Brent-Oil-Price-Using-Linear-Regression-Model
-A line chart depicting the trends in the changes in brent oil stock price for the last 20 years (from 1988 to 2022) is shown below. The stock price reached its peak in 2008 and dropped significantly afterwards. It however recovered progressively after the major drop.
+A line chart depicting the trends in the changes in brent oil stock price for the last 20 years (from 1987 to 2022) is shown below. The stock price reached its peak in 2008 and dropped significantly afterwards. It however recovered progressively after the major drop.
 
 ![](https://github.com/2-88/Time-Series-Forecasting-of-Brent-Crude-Oil-Price-Using-Regression-and-LSTM/blob/main/Picture11.png).
 
@@ -19,3 +19,7 @@ Result: Five rows of the resulting output of the Rolling Window feature engineer
 
 ![](https://github.com/2-88/Time-Series-Forecasting-of-Brent-Crude-Oil-Price-Using-Regression-and-LSTM-Python-Implementation-/blob/main/Picture13.png).
 
+### Data Cleaning
+As indicated in the presented output, there are null values in the results. Prior to executing the linear regression, these null values were removed.
+
+![]().
